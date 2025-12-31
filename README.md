@@ -41,8 +41,8 @@ Para ejecutar este proyecto, solo es necesario tener instalado **Docker** y **Do
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <url-de-tu-repositorio>
-   cd SillasMesasHernandez 
+   git clone <https://github.com/ZkDrxzyy/P789--lgebra-Relacional>
+   cd Práctica789
    ```
    
 2. **Levantar el entorno:**
